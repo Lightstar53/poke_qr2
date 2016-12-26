@@ -22,7 +22,8 @@ export class PokemonPage {
   
   initialized_object : any;
 
-  file_items = '../www/assets/data/pokemon.csv';
+  //file_items = '../www/assets/data/pokemon.csv';
+  file_items = 'assets/data/pokemon.csv';
 
   constructor(public navCtrl: NavController, 
     public navParams: NavParams,
