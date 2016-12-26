@@ -39,5 +39,8 @@
     "cordova-plugin-splashscreen"
   ],
   "cordovaPlatforms": [],
-  "description": "poke_qr2: An Ionic project"
+  "description": "poke_qr2: An Ionic project",
+  "scripts": {
+    "start": "node server.js"
+  }
 }
